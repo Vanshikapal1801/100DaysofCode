@@ -1,4 +1,5 @@
-#include <stdio.h>
+//Write a program to find 1's complememt of a binary number and print it.
+    #include <stdio.h>
 #include <string.h>
 
 int main() {
