@@ -1,4 +1,4 @@
-//WAP to calculate the area and circumference of a circe given its radius.
+//WAP to calculate the area and circumference of a circle given its radius.
 
 #include <stdio.h>
 int main() {
