@@ -1,3 +1,4 @@
+//Count spaces,digits and special characters in a string.
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
