@@ -1,4 +1,5 @@
-//Print the initials of a name.
+//Print the initials of a name wth a surname displayed in full.
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
