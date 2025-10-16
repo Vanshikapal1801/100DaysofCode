@@ -1,3 +1,4 @@
+//Check if two strings are anagrams of each other.
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -41,4 +42,5 @@ int main() {
     printf("The strings ARE anagrams of each other.\n");
     return 0;
 }
+
 
