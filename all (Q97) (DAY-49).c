@@ -1,3 +1,4 @@
+//Print the initials of a name.
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
